@@ -1,4 +1,4 @@
-p.intro {
+.intro > p {
   font-family: monospace;
   font-size: 24px;
 }
@@ -7,15 +7,21 @@ h1{
   text-align:center;
 }
 
-h2.intro {
+.intro > h2  {
   font-family:fantasy;
   text-align:center;
 }
 
-img.intro{
+.intro > img {
   width: 50%;
 }
 
-a.intro{
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro > a{
   font-size: 100px;
 }
