@@ -1,0 +1,21 @@
+p.intro {
+  font-family: monospace;
+  font-size: 24px;
+}
+
+h1{
+  text-align:center;
+}
+
+h2.intro {
+  font-family:fantasy;
+  text-align:center;
+}
+
+img.intro{
+  width: 50%;
+}
+
+a.intro{
+  font-size: 100px;
+}
